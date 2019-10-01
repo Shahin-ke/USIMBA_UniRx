@@ -6,7 +6,7 @@
 	"unity": "2019.2",
 	"unityRelease": "5f1",
 	"dependencies": {
-		"com.sh-swat.usimba": "https://github.com/SH-SWAT/Usimba#Init"
+		"com.sh-swat.usimba": "https://github.com/SH-SWAT/Usimba.git#Init"
 	},
 	"keywords": [
 		"MessageBus",
